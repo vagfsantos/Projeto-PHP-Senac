@@ -1,5 +1,5 @@
 # Projeto PHP Senac
 
-## Objetivos:
+### Objetivos:
 
 * Contruir um site usando bootstrap para trabalho acadêmico
